@@ -1,2 +1,2 @@
 # Platform-falling-game
-It is a simple unity 2D game in which a player can jump and runs on the platform to pick some coins.......
+It is a simple unity 2D game using C#
